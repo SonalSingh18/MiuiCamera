@@ -3301,6 +3301,10 @@
     <public type="raw" name="goofy_face" id="0x7f0f0003" />
     <public type="raw" name="watermark" id="0x7f0f0004" />
     <public type="raw" name="xiaomi_static_config" id="0x7f0f0005" />
+    <public type="raw" name="feature_curtana" id="0x7f0f0006" />
+    <public type="raw" name="feature_excalibur" id="0x7f0f0007" />
+    <public type="raw" name="feature_gram" id="0x7f0e0008" />
+    <public type="raw" name="feature_joyeuse" id="0x7f0e0009" />
     <public type="string" name="abc_action_bar_home_description" id="0x7f100000" />
     <public type="string" name="abc_action_bar_up_description" id="0x7f100001" />
     <public type="string" name="abc_action_menu_overflow_description" id="0x7f100002" />
