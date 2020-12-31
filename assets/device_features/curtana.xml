@@ -436,4 +436,6 @@
     <float name="device_body_sar">0.483</float>
     <!-- Whether support sunlight mode -->
     <bool name="config_sunlight_mode_available">true</bool>
+    <!-- whether this device is Android one -->
+    <bool name="is_android_one_device">true</bool>
 </features>
